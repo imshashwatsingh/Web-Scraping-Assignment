@@ -1,0 +1,26 @@
+Hello there,
+Thank you for showing your interest in working with us at Blackcoffer.
+I appreciate your time and effort for this application. 
+
+We would like you to work on a test assignment to proceed further.
+Get the assignment files from Google Drive link:
+https://drive.google.com/drive/folders/1ltdsXAS_zaZ3hI-q9eze_QCzHciyYAJY?usp=sharing
+
+Do read Objective.docx first. It has objective and what to do.
+You have 6 days to submit it. Sooner is better. We will Skype and discuss technical post your submission.
+Note: Use Python programming for both i.e. data extraction and text analysis
+
+To submit your solution, please fill this google sheet and upload your solution to google drive,
+and share the drive url in the google sheet: https://forms.gle/nvWAgrCBdq1JkKou8 
+PS: It is compulsory to fill the google form and update about your assignment 
+    if given to you here in the google form for setting up the interview with you.
+    Make sure that you have have given the google drive link to your assignment solution in the google form.
+
+PS: Documents that we are sending contain sensitive information and should not be shared with anybody. Do not upload your solution or assignment or any related documents to public repository such as GitHub or bit-bucket. Doing so disqualifies your candidature. . 
+
+Cheers!
+Ajay Bidyarthy 
+Founder & CEO, Blackcoffer | Co-founder, Netclan
+Consulting Website:  https://blackcoffer.com | https://lsalead.com/
+Web App Products: https://netclan.com/ | https://insights.blackcoffer.com/ | https://hirekingdom.com/ | https://workcroft.com/
+Mobile App Products: Netclan | Bwstory
